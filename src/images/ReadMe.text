@@ -1,0 +1,15 @@
+
+original.js - 
+
+The idea here is to have an Object for an image / photo. As you can see from 'original.js' file, 
+each photo objet has key:value pairs. We are interested in the attributes as we want visitors of the app to be 
+able to filter this list of objects using these attributes!!
+
+
+filter.js - 
+This is just an example of two filters being applied.
+
+
+The main idea is to have the owner of the app add objects to a main list. The main list should hold state
+
+
