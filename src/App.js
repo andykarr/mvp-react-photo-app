@@ -16,7 +16,6 @@ function App() {
     // remove photo object from original list, so no one else can receive it again.
 
 
-
   }
 
   async function sendFilteredPhoto() {
